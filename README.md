@@ -1,9 +1,19 @@
-Hi, I'm Janith D’Alwis, a Purdue University student from Cerritos, CA. 
+# Janith D'Alwis
 
-Pursuing a double major in Cybersecurity and Artificial Intelligence with a Certificate in Entrepreneurship and Innovation. 
+🔗 [jdalwis.com](#) | 📧 [Email](mailto:jdalwis@purdue.edu) | 📱 +1 (562) 417-1599 | 📍 Cerritos, CA
 
-Committed to enhancing cybersecurity solutions for a safer, more reliable digital world.
+## Education
 
-Current Cyber-Tech Specialist @ Super Purposes
+🎓 **Student @ Purdue University**  
 
-Feel free to reach out!
+🔒 Cyber-Tech Specialist @ Super Purposes
+
+## Skills & Certifications
+
+🛠️ **Technical Skills**: Python, Linux, Embedded Systems, Azure, AWS, JavaScript, Java, and more.  
+🎖️ **Certifications**: Microsoft SC-900, Google Cybersecurity Specialization.  
+🏆 **Honors**: Eagle Scout, Seal of Biliteracy in Spanish, and various awards in technology and leadership.
+
+## Get in Touch
+
+📫 Feel free to **ping** me about **cybersecurity**, **AI**, **development**, or **technology innovation**.  
