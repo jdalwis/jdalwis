@@ -1,6 +1,6 @@
 # Janith D'Alwis
 
-🔗 [jdalwis.com](#) | 📧 [Email](mailto:jdalwis@purdue.edu) | 💼 [www.linkedin.com/in/janithdalwis](LinkedIn) | 📝 [https://medium.com/@janithdalwis](Medium)
+🔗 [jdalwis.com](jdalwis.com) | 📧 [Email](mailto:jdalwis@purdue.edu) | 💼 [LinkedIn](www.linkedin.com/in/janithdalwis) | 📝 [Medium](https://medium.com/@janithdalwis)
 
 ## Education
 
