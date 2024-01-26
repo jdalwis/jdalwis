@@ -14,4 +14,4 @@
 
 ## Get in Touch
 
-📫 Feel free to reach out me about cybersecurity or anything technology!  
+📫 Feel free to reach out to me about cybersecurity or anything technology!  
