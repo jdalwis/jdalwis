@@ -1,6 +1,6 @@
 # Janith D'Alwis
 
-🔗 [jdalwis.com](#) | 📧 [Email](mailto:jdalwis@purdue.edu) | 📱 +1 (562) 417-1599 | 📍 Cerritos, CA
+🔗 [jdalwis.com](#) | 📧 [Email](mailto:jdalwis@purdue.edu) | 💼 [www.linkedin.com/in/janithdalwis](LinkedIn) | 📝 [https://medium.com/@janithdalwis](Medium)
 
 ## Education
 
