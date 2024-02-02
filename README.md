@@ -1,5 +1,3 @@
-# Janith D'Alwis
-
 # 💫 About Me:
 🎓 **Student** @ Purdue University  
 🔐 **Cyber-Tech Specialist** @ Super Purposes
