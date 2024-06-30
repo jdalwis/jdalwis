@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 **Student** @ Purdue University  
 🔐 **Cyber-Tech Specialist** @ Super Purposes
-💻 ** IT Support Specialist** @ Jonathan Louis **[CURRENT]**
+💻 **IT Support Specialist** @ Jonathan Louis **[CURRENT]**
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/janith.dalwis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janithdalwis) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@janithdalwis) 
