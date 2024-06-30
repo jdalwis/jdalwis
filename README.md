@@ -1,6 +1,7 @@
 # 💫 About Me:
 🎓 **Student** @ Purdue University  
 🔐 **Cyber-Tech Specialist** @ Super Purposes
+
 💻 **IT Support Specialist** @ Jonathan Louis **[CURRENT]**
 
 # 🌐 Socials:
